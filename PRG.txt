@@ -8,3 +8,4 @@
 8. repositorio - https://dle.rae.es/repositorio?m=form
 9. lenguaje - https://dle.rae.es/lenguaje?m=form
 10. compilación - https://dle.rae.es/compilaci%C3%B3n 
+11. estructuras - https://dle.rae.es/estructuras
